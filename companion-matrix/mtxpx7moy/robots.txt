@@ -1,0 +1,3 @@
+# MATRIX-PROOF-mtxpx7moy
+User-agent: *
+Allow: /
